@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "urbanpustakui"
+    }
+  },
+  "defaultProject": "urbanpustakui",
+  "cli": {
+    "analytics": "7aeb2924-d7f9-4d9d-be25-dfa0809ed6e1"
+  }
 }
